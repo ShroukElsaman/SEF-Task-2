@@ -1,0 +1,23 @@
+body {
+  background-color: #ccc;
+}
+div {
+  background-color: #a0bfe0;
+  color: #4a55a2;
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  text-align: center;
+}
+p {
+  font-size: 20px;
+}
+a {
+  color: #4a55a2;
+}
+button {
+  background-color: #ddd;
+  width: 100px;
+  height: 30px;
+  border-radius: 20px;
+}
